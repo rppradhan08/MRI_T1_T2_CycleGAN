@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/rppradhan08/MRI_T1_T2_CycleGAN">
-    <img src="https://github.com/rppradhan08/MRI_T1_T2_CycleGAN/blob/main/cyclegan.gif" alt="Logo" width="550px" height="225px" style="clip: rect(0px,60px,200px,0px);">
+    <img src="https://github.com/rppradhan08/MRI_T1_T2_CycleGAN/blob/main/cyclegan.gif" alt="Logo" width="550px" height="225px" style="clip: rect(0px,60px,200px,0px);border-radius: 25px;">
   </a>
 </p>
 
