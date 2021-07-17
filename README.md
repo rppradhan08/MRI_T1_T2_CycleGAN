@@ -11,7 +11,7 @@ This project uses unpaired dataset consisting of TN1 and TN2 MRI scans of brain 
 
 <p align="center">
   <a href="https://github.com/rppradhan08/MRI_T1_T2_CycleGAN">
-    <img src="https://github.com/rppradhan08/MRI_T1_T2_CycleGAN/blob/main/cyclegan.gif" alt="Logo" width="400px" height="200px" style="clip: rect(0px,60px,200px,0px);">
+    <img src="https://github.com/rppradhan08/MRI_T1_T2_CycleGAN/blob/main/cyclegan.gif" alt="Logo" width="400px" height="350px" style="clip: rect(0px,60px,200px,0px);">
   </a>
 </p>
 
