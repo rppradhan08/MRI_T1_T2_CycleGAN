@@ -12,6 +12,6 @@
 </p>
 
 # About The Project
-This project uses unpaired dataset consisting of TN1 and TN2 MRI scans of brain to train a deep learning model to convert TN1 into TN2 scans and vice-versa. CycleGAN technique have been used for the unpaired image translation application.
+This project uses unpaired dataset consisting of TN1 and TN2 MRI scans of brain to train a deep learning model to convert TN1 into TN2 scans and vice-versa. [CycleGAN](https://junyanz.github.io/CycleGAN/) technique have been used for the unpaired image translation application.
 
 
