@@ -4,14 +4,14 @@
 [![LinkedIn][linkedin-shield]](https://in.linkedin.com/in/raj-praveen-pradhan-306625101)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-
+<h1 align="center">MRI T1-T2 CyclicGAN</h1>
 <p align="center">
   <a href="https://github.com/rppradhan08/MRI_T1_T2_CycleGAN">
     <img src="https://github.com/rppradhan08/MRI_T1_T2_CycleGAN/blob/main/cyclegan.gif" alt="Logo" width="650px" height="225px">
   </a>
 </p>
 <br>
-<h1 align="center">MRI T1-T2 CyclicGAN</h1>
+
 
 ## Table of Contents
 - [Description](#description)
