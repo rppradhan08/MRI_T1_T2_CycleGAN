@@ -9,25 +9,25 @@
   <a href="https://github.com/rppradhan08/MRI_T1_T2_CycleGAN">
     <img src="https://github.com/rppradhan08/MRI_T1_T2_CycleGAN/blob/main/cyclegan.gif" alt="Logo" width="650px" height="225px">
   </a>
-  <br>
-  <br>
-  <h1>MRI T1-T2 CyclicGAN</h1>
 </p>
-
+<br>
+<br>
+<h1 align="center">MRI T1-T2 CyclicGAN</h1>
 ## Table of Contents
 
-- [About the Project](#about-the-project)
-  - [Approach](#approach)
-  - [Steps Involved](#steps-involved)
-- [Getting Started](#getting-started)
-  - [Installations](#installations)
-  - [Loading images and data preparation for the CNN classifier](#loading-images-and-data-preparation-for-the-cnn-classifier)
-  - [Building and training CNN classifier](#building-and-training-cnn-classifier)
-  - [Evaluating the CNN Classifier](#evaluating-the-cnn-classifier)
-  - [Capturing video frames and detecting faces](#capturing-video-frames-and-detecting-faces)
-  - [Performing perdictions and displaying results](#performing-perdictions-and-displaying-results)
-- [Contacts](#contacts)
-# About The Project
-This project uses unpaired dataset consisting of TN1 and TN2 MRI scans of brain to train a deep learning model to convert TN1 into TN2 scans and vice-versa. [CycleGAN](https://junyanz.github.io/CycleGAN/) technique have been used for the unpaired image translation application.
+- [Description](#description)
+  - [About Image translation](#about-image-translation)
+    - [Read more](#read-more)
 
+# Description
 
+This project uses unpaired dataset consisting of TN1 and TN2 MRI scans of brain to train a deep learning model to convert TN1 into TN2 scans and vice-versa. [CycleGAN](https://junyanz.github.io/CycleGAN/) technique have been used for the purpose of [unpaired image to image translation](https://arxiv.org/abs/1703.10593).
+
+## About Image translation
+
+Image-to-image translation is a class of vision and graphics problems where the goal is to learn the mapping between an input image and an output image using a training set of aligned image pairs. However, for many tasks, paired training data will not be available.
+
+### Read more
+
+- [Unpaired image to image translation using CyclicGAN](https://arxiv.org/abs/1703.10593)
+- [Style Transfer vs Cyclic Gan](https://leolaugier.wp.imt.fr/2019/09/09/style-transfer-in-computer-vision-image-to-image-translation/)
