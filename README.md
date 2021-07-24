@@ -11,10 +11,9 @@
   </a>
 </p>
 <br>
-<br>
 <h1 align="center">MRI T1-T2 CyclicGAN</h1>
-## Table of Contents
 
+## Table of Contents
 - [Description](#description)
   - [About Image translation](#about-image-translation)
     - [Read more](#read-more)
